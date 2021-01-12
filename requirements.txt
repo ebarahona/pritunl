@@ -17,3 +17,4 @@ twisted==17.9.0
 pyopenssl==17.5.0
 cryptography==2.1.4
 certifi==2017.11.5
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
