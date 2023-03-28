@@ -6,7 +6,7 @@ netifaces==0.10.6
 boto==2.48.0
 boto3==1.5.12
 requests==2.18.4
-redis==2.10.6
+redis==4.3.6
 python-dateutil==2.6.1
 psutil==5.4.3
 python-iptables==0.12.0
